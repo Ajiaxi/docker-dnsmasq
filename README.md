@@ -1,5 +1,7 @@
 # docker-dnsmasq
 
+**forked from jpillora/docker-dnsmasq[https://github.com/jpillora/docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq)**
+
 dnsmasq in a docker container, configurable via a [simple web UI](https://github.com/jpillora/webproc)
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/jpillora/dnsmasq.svg)][dockerhub]
